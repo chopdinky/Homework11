@@ -1,0 +1,6 @@
+Hi there! For this weeks assignment, I used the Homework 11 Example to help me make my own game. I did NOT just copy and paste everything, instead I wrote my own code line by line, so I could work into my brain what was going on, looking at the teacher's Example while I was typing my own code. I used AI to look at the teacher's Example, and the AI would tell me in the teacher's Example what each line of code was doing. It wasn't helping me write the code, just helping me understand what the teacher's Example was doing on each line, and helping me understand what I could erase and make into my own thing. I didn't attach screenshots of AI helping me with that, since it was just explaining and not helping me write the code itself.
+
+Once I had my own code all typed up, I ran it through AI to debug it, and screenshots of that are attached.
+
+I had lots of fun with this, once I got the hang of it!
+Excited to continue this class!
